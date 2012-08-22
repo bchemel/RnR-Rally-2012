@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "participants"
+title: "Support Schedule"
 comments: false
 sharing: false
 footer: true

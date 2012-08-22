@@ -14,18 +14,18 @@
     </url>
     <url>
         <loc>http://rocknrow-rally.herokuapp.com/</loc>
-        <lastmod>2012-08-22T08:53:02-04:00</lastmod>
+        <lastmod>2012-08-22T10:59:37-04:00</lastmod>
     </url>
     <url>
         <loc>http://rocknrow-rally.herokuapp.com/maps/</loc>
         <lastmod>2012-08-22T10:28:58-04:00</lastmod>
     </url>
     <url>
-        <loc>http://rocknrow-rally.herokuapp.com/participants/</loc>
+        <loc>http://rocknrow-rally.herokuapp.com/rally-schedule/</loc>
         <lastmod>2012-08-22T08:53:02-04:00</lastmod>
     </url>
     <url>
-        <loc>http://rocknrow-rally.herokuapp.com/schedule/</loc>
-        <lastmod>2012-08-22T08:53:02-04:00</lastmod>
+        <loc>http://rocknrow-rally.herokuapp.com/support-schedule/</loc>
+        <lastmod>2012-08-22T10:49:12-04:00</lastmod>
     </url>
 </urlset>
