@@ -4,3 +4,20 @@
 html {
      background: inline-image('low_contrast_linen.png') scroll center $page-bg;
 }
+
+body > header {
+  hgroup {
+    text-align: center;
+    position: relative;
+    padding: .5em 0;
+    margin: 0 auto;
+  }
+	h1 {
+	  &:before {
+      content: "";
+      position: absolute; left: 0; right: 0; top: .1em;
+      height: image-height('rocknrow-logo.png');
+      @include replace-text('rocknrow-logo.png');
+      }
+	}
+}
