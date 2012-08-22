@@ -4,4 +4,5 @@ title: "Frequently Asked Questions"
 comments: false
 sharing: false
 footer: true
+sidebar: false
 ---
