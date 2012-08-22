@@ -5,19 +5,44 @@ html {
      background: inline-image('low_contrast_linen.png') scroll center $page-bg;
 }
 
+article li { em { color: mix($text-color-light, $text-color); }}
+
+body > header h1 {
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
 body > header {
+  font-size: .7em;
   hgroup {
-    text-align: center;
     position: relative;
     padding: .5em 0;
     margin: 0 auto;
   }
-	h1 {
-	  &:before {
+  h1 {
+    text-shadow: rgba(#000, .8) 0 0 8px;
+    font-size: 5em;
+    line-height: .8em;
+    position: relative;
+    padding-top: .8em;
+    padding-bottom: 0em;
+    padding-left: 3em;
+    text-align: right;
+    margin: 0;
+    a:hover { color: #fff; }
+    &:after {
       content: "";
-      position: absolute; left: 0; right: 0; top: .1em;
+      position: absolute; left: -7em; right: 0; top: 0em;
+      z-index: -1;
       height: image-height('rocknrow-logo.png');
       @include replace-text('rocknrow-logo.png');
-      }
-	}
+    }
+  }
+  h2 {
+    font-size: 1.5em;
+    text-align: right;
+    position: relative; top: .4em;
+    padding-left: 12em;
+    padding-bottom: 2.5em;
+  }
 }
