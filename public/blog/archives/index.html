@@ -9,7 +9,7 @@
   <meta name="author" content="William Teach">
 
   
-  <meta name="description" content=" Blog Archive ">
+  <meta name="description" content=" Blog Archive Recent Posts ">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -24,7 +24,7 @@
   <script src="/javascripts/modernizr-2.0.js"></script>
   <script src="/javascripts/ender.js"></script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <link href="" rel="alternate" title="Rock 'n' Row Rally 2012" type="application/atom+xml">
+  <link href="/atom.xml" rel="alternate" title="Rock 'n' Row Rally 2012" type="application/atom+xml">
   <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
@@ -34,8 +34,10 @@
 
 </head>
 
-<body    class="collapse-sidebar sidebar-footer" >
+<body   >
   <header role="banner"><hgroup>
+  <div class="clear"></div>
+  <h1><img src="/images/rocknrow-sm.png" width=100 height=100/></h1>
   <div class="clear"></div>
   <h1><a href="/">Rock 'n' Row Rally 2012</a></h1>
   
@@ -46,9 +48,16 @@
 
 </header>
   <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
   
 </ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:rocknrow-rally.herokuapp.com" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
   
 <ul class="main-navigation">
   <li><a href="/">Home</a></li>
@@ -80,7 +89,18 @@
 
 <aside class="sidebar">
   
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
     
+  </ul>
+</section>
+
+
+
+
+
+
   
 </aside>
 
