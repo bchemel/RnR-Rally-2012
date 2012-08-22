@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Welcome"
+title: "maps"
 comments: false
 sharing: false
 footer: true
 ---
 
-Well, hello there.
+Blah blah blah

@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Welcome"
+title: "schedule"
 comments: false
 sharing: false
 footer: true
 ---
-
-Well, hello there.

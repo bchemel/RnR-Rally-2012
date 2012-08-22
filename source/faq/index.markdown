@@ -1,9 +1,7 @@
 ---
 layout: page
-title: "Welcome"
+title: "Frequently Asked Questions"
 comments: false
 sharing: false
 footer: true
 ---
-
-Well, hello there.
