@@ -10,13 +10,8 @@ sidebar: false
 Date		|Time		| What
 ------------|-----------|-----
 Friday 8/31 |6pm 		| Load bikes onto Bertha at El Presidente's house 
-Saturday 9/1|6:30am		| Captain's meeting for chase teams 
-			|7am		| Row group 1 departs
-			|7:10am		| Row group 2 departs
-			|7:20am		| Row group 3 departs
-			|7:30am		| Row group 4 departs
-			|7:40am		| Row group 5 departs
-			|7:50am		| Row group 6 departs
+Saturday 9/1|6:30am		| MANDATORY Captain's meeting
+			|7-8am		| Rowers depart by [launch groups](/launch-groups)
 			|8:30am		| First stop - Misery Island, Manchester
 			|10am		| Second stop - Kettle Island, Magnolia
 			|11:30am	| Rowers arrive at Gloucester
