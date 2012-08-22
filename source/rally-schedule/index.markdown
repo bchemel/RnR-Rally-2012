@@ -1,27 +1,26 @@
 ---
 layout: page
-title: "schedule"
+title: "Rally Schedule"
 comments: false
 sharing: false
 footer: true
 sidebar: false
 ---
 
-Friday 8/31
-====
-
-6pm-8pm : Load bikes on Bertha at Paul's House
-
-Saturday 9/1
-====
-
-6:30am: MANDATORY Captain's meeting at the boathouse
-
-7am-8am: Rowers leave according to assigned order
-
-11am-12pm: Arrival at Gloucester, start ride back
-
-2pm: Arrive back at boathouse
-
-4pm: Party!
-
+Date		|Time		| What
+------------|-----------|-----
+Friday 8/31 |6pm 		| Load bikes onto Bertha at El Presidente's house 
+Saturday 9/1|6:30am		| Captain's meeting for chase teams 
+			|7am		| Row group 1 departs
+			|7:10am		| Row group 2 departs
+			|7:20am		| Row group 3 departs
+			|7:30am		| Row group 4 departs
+			|7:40am		| Row group 5 departs
+			|7:50am		| Row group 6 departs
+			|8:30am		| First stop - Misery Island, Manchester
+			|10am		| Second stop - Kettle Island, Magnolia
+			|11:30am	| Rowers arrive at Gloucester
+			|12pm		| Riders depart from Gloucester
+			|1-1:30pm	| Refueling stop at Captain Dusty's
+			|3pm		| Riders arrive MHD
+			|4pm		| Party!

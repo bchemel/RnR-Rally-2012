@@ -7,6 +7,19 @@ html {
 
 article li { em { color: mix($text-color-light, $text-color); }}
 
+table, th, td {
+  border-style:solid;
+  border-width:1px;
+  border-color:#e7e3e7;
+  padding:10px;
+}
+
+thead {
+  font-weight: bold;
+  background-color: grey;
+  color: white;
+}
+
 body > header h1 {
   text-transform: uppercase;
   font-weight: normal;
