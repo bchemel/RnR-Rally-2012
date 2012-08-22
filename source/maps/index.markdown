@@ -7,6 +7,8 @@ footer: true
 sidebar: false
 ---
 
-[Rally Row Map](RallyRowMap.pdf)
+Download as PDF: [Row](/images/RowMap.pdf) [Ride](/images/RideMap.pdf)
 
-[Rally Ride Map](RallyRideMap.pdf)
+{% img /images/RowMap.png %}
+
+{% img /images/RideMap.png %}
