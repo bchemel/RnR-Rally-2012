@@ -23,19 +23,19 @@ Group leaders in **bold**, boats in (parens)
 
 ## Group 3
 * **Chris Leake** (private)
-* Dave Greten (Alden 1 Yellow)
-* Roger Pelliciotti (Alden 3 White)
+* Karen Peake (private - Jack's Star)
+* Sarah Simon (private)
 * Carlton Sparrell (Echo 2 Yellow)
 
 ## Group 4
 * **Paul Mazonson** (private)
+* Roger Pelliciotti (Alden 3 White)
 * Jack Tatelman (private - Terrie Leake?)
-* Sarah Simon (private)
 * Seth Pappas (private)
 
 ## Group 5
 * **Jay Paris** (Maas Aero 2 White)
-* Karen Peake (private - Jack's Star)
+* Dave Greten (Alden 1 Yellow)
 * Jon Hancke (private)
 * Jean Verbridge (private)
 
