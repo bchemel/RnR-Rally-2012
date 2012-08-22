@@ -9,8 +9,8 @@ sidebar: false
 
 Date		|Time		| What
 ------------|-----------|-----
-Friday 8/31 |6pm 		| Load bikes onto Bertha at El Presidente's house 
-Saturday 9/1|6:30am		| MANDATORY Captain's meeting
+**Friday 8/31** |6pm 		| Load bikes onto Bertha at El Presidente's house 
+**Saturday 9/1**|6:30am		| MANDATORY Captain's meeting
 			|7-8am		| Rowers depart by [launch groups](/launch-groups)
 			|8:30am		| First stop - Misery Island, Manchester
 			|10am		| Second stop - Kettle Island, Magnolia

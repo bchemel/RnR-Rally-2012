@@ -10,8 +10,8 @@ sidebar: false
 
 Date		|Time		| What
 ------------|-----------|-----
-Friday 8/31 |6pm 		| Load bikes onto Bertha at El Presidente's house 
-Saturday 9/1|6:30am		| Captain's meeting for chase teams 
+**Friday 8/31** |6pm 		| Load bikes onto Bertha at El Presidente's house 
+**Saturday 9/1**|6:30am		| Captain's meeting for chase teams 
 			|7			| Chase boats depart
 			|7-8am		| Rowers depart
 			|9:30am		| Bertha team (Steve, ?, ?) meet at El Presidente's house
