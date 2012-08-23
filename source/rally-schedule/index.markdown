@@ -16,6 +16,6 @@ Date		|Time		| What
 			|10a		| Second stop - Kettle Island, Magnolia
 			|11:30a		| Rowers arrive at Gloucester
 			|12p		| Riders depart from Gloucester
-			|1-1:30p	| Refueling stop at Captain Dusty's
+			|1-1:30p	| Refueling stop at Captain Dusty's (642 Hale Street, Beverly, MA)
 			|3p			| Riders arrive MHD
 			|4p			| Party!
