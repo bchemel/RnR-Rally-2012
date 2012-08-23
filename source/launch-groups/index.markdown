@@ -14,13 +14,13 @@ Group leaders in **bold**
 Boats in (parens)
 
 ## Group 1
-* **Charlie Harak** (private)
+* **Pal Bickford** (Alden 2 Yellow)
 * Robert Keith (Echo 1 Gray)
 * Brian Chemel (Echo 6 Gray)
 * Frank Kashner (Alden 4 Blue)
 
 ## Group 2
-* **Pal Bickford** (Alden 2 Yellow)
+* **Charlie Harak** (private)
 * Gail Doyle! / Joy Rotondi! (Echo 5 Red)
 * Jaye van Dussen! / Sheila Reilly (Echo 4 Red "Wings")
 * Kim Waller (Echo 4 Orange)
