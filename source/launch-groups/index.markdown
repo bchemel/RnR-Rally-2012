@@ -7,7 +7,11 @@ footer: true
 sidebar: false
 ---
 
-Group leaders in **bold**, ! = row only, boats in (parens)
+Group leaders in **bold**
+
+! = row only
+
+Boats in (parens)
 
 ## Group 1
 * **Charlie Harak** (private)

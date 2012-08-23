@@ -7,6 +7,15 @@ footer: true
 sidebar: false
 ---
 
+### Logistics overview
+
+**Bertha** will be loaded with bikes Friday night at Paul's house, and driven up to Stage Fort Park mid-morning on Saturday to wait for rowers. Once bikes are off, half of the boats will be loaded, driven back to the boathouse, and unloaded; Bertha will then return to Gloucester for a second pickup run accompanied by Seth and Chris in their cars with roof racks.
+
+Bike gear (one small duffel or backpack) will be loaded Saturday morning prior to the Captain's meeting into a **second private vehicle** (TBD), driven to Stage Fort Park, then return to the boathouse at some point that afternoon for pickup at the end of the Rally.
+
+Two **chase boats** will launch with the rowers, captained by Terrie and Stefan. Chase boats will carry relief rowers (Sheila Reilly and Joy Rotondi).
+
+If you are rowing but not riding or riding but not rowing, you will be transported on either one of the two chase boats, with Bertha, or in the second private vehicle - details TBD.
 
 Date		|Time		| What
 ------------|-----------|-----
