@@ -9,13 +9,13 @@ sidebar: false
 
 Date		|Time		| What
 ------------|-----------|-----
-**Friday 8/31** |5pm 		| Load bikes onto Bertha at El Presidente's house 
-**Saturday 9/1**|6:30am		| MANDATORY Captain's meeting
-			|7-8am		| Rowers depart by [launch groups](/launch-groups)
-			|8:30am		| First stop - Misery Island, Manchester
-			|10am		| Second stop - Kettle Island, Magnolia
-			|11:30am	| Rowers arrive at Gloucester
-			|12pm		| Riders depart from Gloucester
-			|1-1:30pm	| Refueling stop at Captain Dusty's
-			|3pm		| Riders arrive MHD
-			|4pm		| Party!
+**Friday 8/31** |5p 		| Load bikes onto Bertha at El Presidente's house (7 Barnegat Ln, Mhd)
+**Saturday 9/1**|6:30a		| MANDATORY Captain's meeting
+			|7-8a		| Rowers depart by [launch groups](/launch-groups)
+			|8:30a		| First stop - Misery Island, Manchester
+			|10a		| Second stop - Kettle Island, Magnolia
+			|11:30a		| Rowers arrive at Gloucester
+			|12p		| Riders depart from Gloucester
+			|1-1:30p	| Refueling stop at Captain Dusty's
+			|3p			| Riders arrive MHD
+			|4p			| Party!
