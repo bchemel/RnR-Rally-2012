@@ -17,7 +17,7 @@ Group leaders in **bold**, boats in (parens)
 
 ## Group 2
 * **Pal Bickford** (Alden 2 Yellow)
-* Gail Doyle / Joy Rotundi (Echo 5 Red)
+* Gail Doyle / Joy Rotondi (Echo 5 Red)
 * Jaye van Dussen / Sheila Reilly (Echo 4 Red "Wings")
 * Kim Waller (Echo 4 Orange)
 
