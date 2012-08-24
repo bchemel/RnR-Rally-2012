@@ -17,7 +17,7 @@ Boats in (parens)
 * **Pal Bickford** (Alden 2 Yellow)
 * Robert Keith (Echo 1 Gray)
 * Brian Chemel (Echo 6 Gray)
-* Frank Kashner (Alden 4 Blue)
+* Frank Kashner (private - Jack's Star)
 
 ## Group 2
 * **Charlie Harak** (private)
@@ -27,7 +27,7 @@ Boats in (parens)
 
 ## Group 3
 * **Chris Leake**! (private)
-* Karen Peake (private - Jack's Star)
+* Karen Peake (Alden 4 Blue)
 * Sarah Simon! (private)
 * Carlton Sparrell (Echo 2 Yellow)
 
