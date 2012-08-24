@@ -35,4 +35,4 @@ Date		|Time		| What
 			|2:30-3p	| Load second batch of boats
 			|3-4p		| Bertha, Chris, Seth Gloucester->MHD
 			|3p			| Riders arrive MHD
-			|4p			| Party!
+			|4p			| Party at the boathouse!
