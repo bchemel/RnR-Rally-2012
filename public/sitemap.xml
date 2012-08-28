@@ -10,7 +10,7 @@
     </url>
     <url>
         <loc>http://rocknrow-rally.herokuapp.com/faq/</loc>
-        <lastmod>2012-08-27T20:13:35-04:00</lastmod>
+        <lastmod>2012-08-28T08:03:38-04:00</lastmod>
     </url>
     <url>
         <loc>http://rocknrow-rally.herokuapp.com/</loc>
@@ -27,6 +27,10 @@
     <url>
         <loc>http://rocknrow-rally.herokuapp.com/rally-schedule/</loc>
         <lastmod>2012-08-24T11:10:00-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rocknrow-rally.herokuapp.com/roster/</loc>
+        <lastmod>2012-08-28T08:56:38-04:00</lastmod>
     </url>
     <url>
         <loc>http://rocknrow-rally.herokuapp.com/support-schedule/</loc>
