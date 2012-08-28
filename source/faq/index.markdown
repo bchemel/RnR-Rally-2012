@@ -13,7 +13,7 @@ In case of an emergency, we will have two chase boats shadowing the rowers. Each
 
 **Q: What should I wear?**
 
-For the row, we strongly recommend a brightly colored t-shirt or athletic shirt and hat. No earth tones or greys - we really want to stand out in traffic!
+For the row, we strongly recommend a brightly colored t-shirt or athletic shirt and hat. No earth tones or greys - we really want to stand out in traffic! We will also be coming ashore on some pretty rough spots on our island stops, so water shoes are also recommended.
 
 For the ride, you may want to pack a change of clothes - dry shorts and a top to go with your socks and bike shoes - and of course your helmet. Nobody rides without a helmet.
 
