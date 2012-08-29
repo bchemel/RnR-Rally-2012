@@ -7,8 +7,8 @@ footer: true
 sidebar: false
 ---
 
-Download as PDF: [Row](/images/RowMap.pdf) [Ride](/images/RideMap.pdf)
+Download as PDF: [Row](/images/RowMap2.pdf) [Ride](/images/RideMap2.pdf)
 
-{% img /images/RowMap.png %}
+{% img /images/RowMap2.png %}
 
-{% img /images/RideMap.png %}
+{% img /images/RideMap2.png %}
