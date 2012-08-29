@@ -19,7 +19,7 @@ Brian Chemel			| Row				| Ride
 Connie Cooney			| Own car			| Own car			| Boat-sitting, then back with 2nd Bertha run
 Shawn Cooney			| Own car			| Ride
 Steve Cunningham		| Bertha (drive)	| Bertha (drive)	| Driver for both Bertha runs
-Gail Doyle				| Row / ChaseT		| ChaseT
+Gail Doyle				| Row / ChaseT		| Getting a ride
 Dave Greten				| Row				| Ride
 Emily Greten			| Row (Double)		| Ride
 Jon Hancke				| Row				| Ride
