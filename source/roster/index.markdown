@@ -30,6 +30,7 @@ Frank Kashner			| Row				| Ride
 Robert Keith			| Row				| Ride
 Chris Leake				| Row				| Bertha 			| Accompany 2nd Bertha run in own car
 Seth Pappas				| Row				| Bertha			| Accompany 2nd Bertha run in own car
+Monica Mackey			| ChaseS			| Ride
 Paul Mazonson			| Row				| Ride
 Jay Paris				| Row				| Ride
 Christopher Peake		| Bertha			| Ride
