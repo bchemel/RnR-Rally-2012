@@ -23,9 +23,9 @@ Date		|Time		| What
 **Saturday 9/1**|6:30a		| Captain's meeting for chase teams 
 			|7			| Chase boats depart
 			|7-8a		| Rowers depart
-			|9:30a		| Bertha team (Steve, ?, ?) meet at El Presidente's house
-			|10-11a		| Bertha MHD->Gloucester
-			|11-11:30a	| Bertha unload bikes
+			|8:15a		| Bertha team (Steve, Craig, Chris) meet at El Presidente's house
+			|8:30-9:30a		| Bertha MHD->Gloucester
+			|10:30-11a	| Bertha unload bikes
 			|11:30a		| Rowers arrive at Gloucester
 			|11:30a-12p | Load first batch of boats
 			|12p		| Riders depart from Gloucester
